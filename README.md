@@ -1,2 +1,2 @@
-# LM
-MLRM
+# Linear Models
+Multiple Linear Regression
